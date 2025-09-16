@@ -80,7 +80,7 @@ setup(
     },
     install_requires=[
         "numpy >= 1.14.5, < 2.0.0",
-        "protobuf >= 3.1.0, <= 4.0.0",
+        "protobuf >= 3.1.0, <= 6.32.1",
         "sympy",
         "tqdm",
         "packaging",
